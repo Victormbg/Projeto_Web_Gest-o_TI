@@ -1,2 +1,2 @@
-# Projeto_Web_Gest-o_TI
+# Projeto_Web_Gestão_TI
 Projeto Final em PHP ISERJ
